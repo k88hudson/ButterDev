@@ -3,7 +3,16 @@
 If you use Sublime Text 2 for working with Butter, make it more awesome:
 
 ## Setup instructions
-Drop all files from the `snippets/` folder in this repo into `/Users/yourusername/Library/Application Support/Sublime Text 2/Packages/snippets`
+1. Find your packages folder. If you're on a mac, try:
+```
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+```
+2. Clone this repository
+```
+git clone https://github.com/k88hudson/ButterDev
+```
+3. Try typing `mit` and press TAB in a new file to test.
+
 
 ## Snippets
 
