@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<video id="${1:video}" preload data-butter="media" controls>
+	<source src="http://videos-cdn.mozilla.net/serv/webmademovies/trailer.mp4">
+	<source src="http://videos-cdn.mozilla.net/serv/webmademovies/trailer.ogv">
+	<source src="http://videos-cdn.mozilla.net/serv/webmademovies/trailer.webm">
+</video>
+]]></content>
+	<tabTrigger>video</tabTrigger>
+</snippet>
